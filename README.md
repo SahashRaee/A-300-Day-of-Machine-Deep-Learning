@@ -1,4 +1,4 @@
-# **Journey of 300DaysOfData in Machine Learning and Deep Learning**
+# **A 300-Day of Machine Learning and Deep Learning**
 
 
 ![MachineLearning](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/ML.jpg)
