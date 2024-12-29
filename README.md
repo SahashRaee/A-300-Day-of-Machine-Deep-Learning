@@ -70,7 +70,7 @@
 - Book:
   - [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html)
 
-![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%201.PNG)
+![Image](https://github.com/SahashRaee/A-300-Day-of-Machine-Deep-Learning/blob/main/Assets/Day%201.PNG)
 
 **Day2 of 300DaysOfData!**
 - **Ordinary Linear Regression**: Linear Regression is a linear approach to modelling the relationships between a scalar response or dependent variable and one or more explanatory variables or independent variables. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about Ordinary Linear Regression, Parameter Estimation, Minimizing Loss and Maximizing Likelihood along with the Construction and Implementation of the LR from the Book **Machine Learning From Scratch**. I have also started reading the Book **A Comprehensive Guide to Machine Learning** which focuses on Mathematics and Theory behind the Topics. I have read about Regression, Ordinary Least Squares, Vector Calculus, Orthogonal Projection, Ridge Regression, Feature Engineering, Fitting Ellipses, Polynomial Features, Hyperparameters and Validation, Errors and Cross Validation from this book. I have presented the Implementation of Linear Regression along with Visualizations using Python here in the Snapshots. I hope you will also spend some time reading the Topics and Books mentioned above. Excited about the days ahead!!
