@@ -78,7 +78,7 @@
   - [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html)
   - **A Comprehensive Guide to Machine Learning**
 
-![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%202a.PNG)
+![Image](https://github.com/SahashRaee/A-300-Day-of-Machine-Deep-Learning/blob/main/Assets/Day%202a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%202b.PNG)
 
 **Day3 of 300DaysOfData!**
