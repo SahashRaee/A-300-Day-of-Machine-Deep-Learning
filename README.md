@@ -3,7 +3,7 @@
 
 ![MachineLearning](https://github.com/SahashRaee/A-300-Day-of-Machine-Deep-Learning/blob/main/Assets/image/Machine_Deep_Learning.png)
 
-| Books and Resources | Status of Completion |ss
+| Books and Resources | Status of Completion |s
 | ----- | -----|
 | 1. [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html) | :white_check_mark: |
 | 2. **A Comprehensive Guide to Machine Learning** | :white_check_mark: |
