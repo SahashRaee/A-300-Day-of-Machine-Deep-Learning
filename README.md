@@ -87,7 +87,7 @@
   - [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html)
   - **A Comprehensive Guide to Machine Learning**
 
-![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%203.PNG)
+![Image](https://github.com/SahashRaee/A-300-Day-of-Machine-Deep-Learning/blob/main/Assets/Day%203.PNG)
 
 **Day4 of 300DaysOfData!**
 - On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about Discriminative Classifiers such as Binary and Multiclass Logistic Regression, The Perceptron Algorithm, Parameter Estimation, Fishers Linear Discriminant and Fisher Criterion along with Construction and Implementation of the same from the Book **Machine Learning From Scratch**. I have also read the Book **A Comprehensive Guide to Machine Learning** which focuses on Mathematics and Theory behind the Topics. I have read about Kernels and Ridge Regression, Linear Algebra Derivation, Computational Analysis, Sparse Least Squares, Orthogonal Matching Pursuit, Total Least Squares, Low rank Formulation, Dimensionality Reduction, Principal Component Analysis, Projection, Changing Coordinates, Minimizing Reconstruction Errors and Probabilistic PCA from this Book. I have presented the Implementation of Binary and Multiclass Logistic Regression, The Perceptron Algorithm and Fishers Linear Discriminant using Python here in the Snapshot. I hope you will also spend some time reading the Topics and Books mentioned above. Excited about the days ahead!!
@@ -95,7 +95,7 @@
   - [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html)
   - **A Comprehensive Guide to Machine Learning**
 
-![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%204.PNG)
+![Image](https://github.com/SahashRaee/A-300-Day-of-Machine-Deep-Learning/blob/main/Assets/Day%204.PNG)
 
 **Day5 of 300DaysOfData!**
 - On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about Generative Classifiers such as Linear Discriminative Analysis or LDA, Quadratic Discriminative Analysis or QDA, Naive Bayes, Parameter Estimation and Data Likelihood along with Construction and Implementation of the same from the Book **Machine Learning From Scratch**. I have also read the Book **A Comprehensive Guide to Machine Learning** which focuses on Mathematics and Theory behind the Topics. I have read about Generative and Discriminative Classification, Bayes Decision Rule, Least Squares Support Vector Machines, Feature Extension, Neural Network Extension, Binary and Multiclass Logistic Regression, Loss Function, Training, Multiclass Extension, Gaussian Discriminant Analysis, QDA and LDA Classification and Support Vector Machines from this Book. I have presented the Implementation of LDA, QDA and Naive Bayes along with Visualizations using Python here in the Snapshot. I hope you will also spend some time reading the Topics and Books mentioned above. Excited about the days ahead!!
@@ -103,7 +103,7 @@
   - [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html)
   - **A Comprehensive Guide to Machine Learning**
 
-![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%205.PNG)
+![Image](https://github.com/SahashRaee/A-300-Day-of-Machine-Deep-Learning/blob/main/Assets/Day%205.PNG)
 
 **Day6 of 300DaysOfData!**
 - **Decision Trees**: A Decision Tree is an interpretable machine learning for Regression and Classification. It is a flow chart like structure in which each internal node represents a Test on an attribute and each branch represents the outcome of the Test. On my Journey of Machine Learning and Deep Learning, Today I have read about Decision Trees such as Regression Trees and Classification Trees, Building Trees, Making Splits and Predictions, Hyperparameters, Pruning and Regularization along with Construction and Implementation of the same from the Book **Machine Learning From Scratch**. I have also read the Book **A Comprehensive Guide to Machine Learning** which focuses on Mathematics and Theory behind the Topics. I have read about Decision Tree Learning, Entropy and Information, Gini Impurity, Stopping Criteria, Random Forests, Boosting and AdaBoost, Gradient Boosting and KMeans Clustering from this Book. I have presented the Implementation of Regression Trees and Classification Trees using Python here in the Snapshot. I hope you will also spend some time reading the Topics and Books mentioned above. Excited about the days ahead!!
