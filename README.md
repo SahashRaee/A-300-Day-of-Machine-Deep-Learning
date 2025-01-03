@@ -143,9 +143,9 @@
 - [**Chanin Nantasenamat Video on Sweetviz**](https://www.youtube.com/watch?v=UR_OK8vBpeY&lc=z22itptbrzv0vfky504t1aokgq4l23pa5kermfzdyrfkbk0h00410.1605764911555430)
 - [**California Housing Prices**](https://github.com/ThinamXx/CaliforniaHousing__Prices.git)
 
-![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2010.PNG)
-![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2010b.PNG)
-![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2010a.PNG)
+![Image](https://github.com/SahashRaee/A-300-Day-of-Machine-Deep-Learning/blob/main/Assets/Day%2010.PNG)
+![Image](https://github.com/SahashRaee/A-300-Day-of-Machine-Deep-Learning/blob/main/Assets/Day%2010a.PNG)
+![Image](https://github.com/SahashRaee/A-300-Day-of-Machine-Deep-Learning/blob/main/Assets/Day%2010b.PNG)
 
 **Day11 of 300DaysOfData!**
 - On my Journey of Machine Learning and Deep Learning, Today I have learned and Implemented about Creating categories from attributes, Stratified Sampling, Visualizing Data to gain insights, Scatter Plots, Correlations, Scatter Matrix and Attribute Combinations from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have continued working with **California Housing Prices** Dataset which is included in this Book. This Dataset was based on Data from the 1990 California Census. I will build a Model of Housing Prices in California in this Project. I am still working on the same. I have presented the Implementation of Stratified Sampling, Correlations using Scatter Matrix and Attribute combinations using Python here in the Snapshots. I have also presented the Snapshots of Correlations using Scatter plots here. I hope you will spend some time working on the same and reading the Topics and Book mentioned above. Excited about the days ahead !! 
