@@ -111,14 +111,14 @@
   - [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html)
   - **A Comprehensive Guide to Machine Learning**
 
-![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%206.PNG)
+![Image](https://github.com/SahashRaee/A-300-Day-of-Machine-Deep-Learning/blob/main/Assets/Day%206.PNG)
 
 **Day7 of 300DaysOfData!**
 - **Tree Ensemble Methods**: Ensemble Methods combine the outputs of multiple simple Models which is often called Learners in order to create the fine Model with low variance. Due to their high variance, a decision trees often fail to reach a level of precision comparable to other predictive algorithms and Ensemble Methods minimize the variance. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about Tree Ensemble Methods such as Bagging for Decision Trees, Bootstrapping, Random Forests and Procedure, Boosting, AdaBoost for Binary Classification, Weighted Classification Trees, The Discrete AdaBoost Algorithm and AdaBoost for Regression along with Construction and Implementation of the same from the Book **Machine Learning From Scratch**. I have presented the Implementation of Bagging, Random Forests and AdaBoost along with different base estimators using Python here in the Snapshot. I hope you will also spend some time reading the Topics and Book mentioned above. Excited about the days ahead !!
 - Books:
   - [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html)
 
-![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%207.PNG)
+![Image](https://github.com/SahashRaee/A-300-Day-of-Machine-Deep-Learning/blob/main/Assets/Day%207.PNG)
 
 **Day8 of 300DaysOfData!**
 - On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about Neural Networks from the Book **Machine Learning From Scratch**. I have read about Model Structure, Communication between Layers, Activation Functions such as ReLU, Sigmoid, The Linear Activation Function, Optimization, Back Propagation, Calculating Gradients, Chain Rule and Observations, Loss Functions along with Construction using The Loop Approach and The Matrix Approach and Implementation of the same from this Book. I have also read the Book **A Comprehensive Guide to Machine Learning** which focuses on Mathematics and Theory behind the Topics. I have read about Convolutional Neural Networks and Layers, Pooling Layers, Back Propagation for CNN, ResNet and Visual Understanding of CNNs from this Book. Besides, I have seen a couple of videos of Neural Networks and Deep Learning. I have presented the simple Implementation of Neural Networks with The Functional API and The Sequential API using TensorFlow here in the Snapshot. I hope you will also spend some time reading the Topics and Books mentioned above. Excited about the days ahead !!
@@ -126,7 +126,7 @@
   - [**Machine Learning From Scratch**](https://dafriedman97.github.io/mlbook/content/introduction.html)
   - **A Comprehensive Guide to Machine Learning**
 
-![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%208.PNG)
+![Image](https://github.com/SahashRaee/A-300-Day-of-Machine-Deep-Learning/blob/main/Assets/Day%208.PNG)
 
 **Day9 of 300DaysOfData!**
 - **Reinforcement Learning**: In Reinforcement Learning, The Learning system called an agent in a particular context can observe the environment, select and perform actions and get rewards in return or penalties in the form of negative rewards. It must learn by itself what is the best policy to get the most reward over time. On my Journey of Machine Learning and Deep Learning, Today I have started reading and Implementing from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have read briefly about The Machine Learning Landscape viz. Types of Machine Learning Systems such as Supervised and Unsupervised Learning, Semisupervised Learning, Reinforcement Learning, Batch Learning and Online Learning, Instance Based Learning and Model Based Learning from this Book. I have presented the simple Implementation of Linear Regression and KNearest Neighbors along with a simple plot using Python here in the Snapshot. I hope you will also spend some time reading the Topics and Book mentioned above. Excited about the days ahead!!
