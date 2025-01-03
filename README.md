@@ -133,7 +133,7 @@
 - Book:
   - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
 
-![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%209a.PNG)
+![Image](https://github.com/SahashRaee/A-300-Day-of-Machine-Deep-Learning/blob/main/Assets/Day%209a.PNG)
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%209b.PNG)
 
 **Day10 of 300DaysOfData!**
