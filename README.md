@@ -134,7 +134,7 @@
   - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
 
 ![Image](https://github.com/SahashRaee/A-300-Day-of-Machine-Deep-Learning/blob/main/Assets/Day%209a.PNG)
-![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%209b.PNG)
+![Image](https://github.com/SahashRaee/A-300-Day-of-Machine-Deep-Learning/blob/main/Assets/Day%209b.PNG)
 
 **Day10 of 300DaysOfData!**
 - On my Journey of Machine Learning and Deep Learning, Today I have read about the Main Challenges of Machine Learning such as Insufficient Quantity of Training Data, Non representative Training Data, Poor Quality Data, Irrelevant Features, Overfitting and Underfitting the Training Data and Testing and Validating, Hyperparameter Tuning and Model Selection and Data Mismatch from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have started working on **California Housing Prices** Dataset which is included in this Book. I will build a Model of Housing Prices in California in this Project. I have presented the simple Implementation of Data Processing and few techniques of EDA using Python here in the Snapshot. I have also presented the Implementation of Sweetviz Library for Analysis here. I really appreciate Chanin Nantasenamat for sharing about this Library in one of his videos. I hope you will also spend some time reading the Topics and Book mentioned above. Excited about the days ahead!!
