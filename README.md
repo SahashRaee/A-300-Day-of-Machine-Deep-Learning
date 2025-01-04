@@ -58,9 +58,9 @@
 | 33. [**Fastai: Chest X-Rays Classification**](https://github.com/ThinamXx/Fastai/blob/main/19.%20Chest%20XRays%20Classification/XRays%20Classification.ipynb) |
 | 34. [**Supervised and Unsupervised Learning**](https://github.com/ThinamXx/ApproachingAnyMachineLearning/blob/main/01.%20Supervised%20Unsupervised%20Learning/Supervised%20Unsupervised.ipynb) |
 | 35. [**Evaluation Metrics**](https://github.com/ThinamXx/ApproachingAnyMachineLearning/blob/main/02.%20Evaluation%20Metrics/Evaluation%20Metrics.ipynb) |
-| 36. [**OpenCV Notebook**](https://github.com/ThinamXx/ComputerVision/blob/main/01.%20OpenCV/OpenCV.ipynb) |
-| 37. [**OpenCV Project I**](https://github.com/ThinamXx/ComputerVision/blob/main/01.%20OpenCV/OCV%20Project%20I.ipynb) | 
-| 38. [**OpenCV Project II**](https://github.com/ThinamXx/ComputerVision/blob/main/01.%20OpenCV/OCV%20Project%20II.ipynb) |
+| 36. [**OpenCV Notebook**](https://github.com/SahashRaee/Deep_Learning_Computer_Vision/blob/main/01.%20OpenCV/OpenCV.ipynb) |
+| 37. [**OpenCV Project I**](https://github.com/SahashRaee/Deep_Learning_Computer_Vision/blob/main/01.%20OpenCV/OCV%20Project%20I.ipynb) | 
+| 38. [**OpenCV Project II**](https://github.com/SahashRaee/Deep_Learning_Computer_Vision/blob/main/01.%20OpenCV/OCV%20Project%20II.ipynb) |
 | 39. [**Convolution**](https://github.com/ThinamXx/ComputerVision/blob/main/02.%20ConvolutionalNeuralNetwork/Convolutions.ipynb) |
 | 40. [**Convolutional Layers**](https://github.com/ThinamXx/ComputerVision/blob/main/02.%20ConvolutionalNeuralNetworks/Convolutional%20Layers.ipynb) |
 | 41. [**Fastai: Transformers**](https://github.com/ThinamXx/Fastai/blob/main/20.%20Transformers/Transformers.ipynb) |
