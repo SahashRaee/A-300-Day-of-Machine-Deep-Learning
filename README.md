@@ -27,7 +27,7 @@
 | 2. [**Logistic Regression from Scratch**](https://github.com/SahashRaee/Logistic_Regression) |
 | 3. [**Implementation of LeNet Architecture**](https://github.com/SahashRaee/LeNet_Architecture/blob/main/LeNet%20Architecture.ipynb) |
 | 4. [**Neural Style Transfer**](https://github.com/SahashRaee/Neural-style-transfer) |
-| 5. [**Object Recognition on Images: CIFAR10**](https://github.com/ThinamXx/CIFAR10__Recognition) |
+| 5. [**Object Recognition on Images: CIFAR10**](https://github.com/SahashRaee/Object_Recoginition_On_CIFAR10) |
 | 6. [**Dog Breed Identification: ImageNet**](https://github.com/ThinamXx/DogBreedClassification) |
 | 7. [**Sentiment Analysis Dataset Notebook**](https://github.com/ThinamXx/NeuralNetworks__SentimentAnalysis/blob/master/PyTorch/Sentiment%20Analysis%20Dataset.ipynb) |
 | 8. [**Sentiment Analysis with RNN**](https://github.com/ThinamXx/NeuralNetworks__SentimentAnalysis/blob/master/PyTorch/Sentiment%20Analysis%20RNN.ipynb) |
