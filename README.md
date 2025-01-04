@@ -23,8 +23,8 @@
 
 | Projects and Notebooks |
 | ---------------------- |
-| 1. [**California Housing Prices**](https://github.com/ThinamXx/CaliforniaHousing__Prices.git) |
-| 2. [**Logistic Regression from Scratch**](https://github.com/SahashRaee/Logistic_Regression/blob/main/LogisticRegression/LogisticRegression.ipynb) |
+| 1. [**California Housing Prices**](https://github.com/SahashRaee/California_Housing_Prices_Prediction/tree/main/California_Housing__Prices) |
+| 2. [**Logistic Regression from Scratch**](https://github.com/SahashRaee/Logistic_Regression) |
 | 3. [**Implementation of LeNet Architecture**](https://github.com/ThinamXx/MachineLearning__Algorithms/blob/main/LeNetArchitecture/LeNetArchitecture.ipynb) |
 | 4. [**Neural Networks Style Transfer**](https://github.com/ThinamXx/NEURAL_STYLE_TRANSFER) |
 | 5. [**Object Recognition on Images: CIFAR10**](https://github.com/ThinamXx/CIFAR10__Recognition) |
