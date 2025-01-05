@@ -29,7 +29,7 @@
 | 4. [**Neural Style Transfer**](https://github.com/SahashRaee/Neural-style-transfer) |
 | 5. [**Object Recognition on Images: CIFAR10**](https://github.com/SahashRaee/Object_Recoginition_On_CIFAR10) |
 | 6. [**Dog Breed Identification: ImageNet**](https://github.com/SahashRaee/Dog_Breed_Classification) |
-| 7. [**Sentiment Analysis Dataset Notebook**](https://github.com/ThinamXx/NeuralNetworks__SentimentAnalysis/blob/master/PyTorch/Sentiment%20Analysis%20Dataset.ipynb) |
+| 7. [**Sentiment Analysis Dataset Notebook**](https://github.com/SahashRaee/Neural_Networks_Sentiment_Analysis/blob/main/PyTorch/Sentiment%20Analysis%20Dataset.ipynb) |
 | 8. [**Sentiment Analysis with RNN**](https://github.com/ThinamXx/NeuralNetworks__SentimentAnalysis/blob/master/PyTorch/Sentiment%20Analysis%20RNN.ipynb) |
 | 9. [**Sentiment Analysis with CNN**](https://github.com/ThinamXx/NeuralNetworks__SentimentAnalysis/blob/master/PyTorch/Sentiment%20Analysis%20CNN.ipynb) |
 | 10. [**Natural Language Inference Dataset**](https://github.com/ThinamXx/Natural_Language__Inference/blob/main/NaturalLanguage%20Inference%20Data.ipynb) |
