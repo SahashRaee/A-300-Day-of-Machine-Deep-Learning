@@ -1,4 +1,4 @@
-# **A 300-Day of Machine Learning and Deep Learning**
+# **A 300-Day of Machine Learning and Deep Learning**s
 
 
 ![MachineLearning](https://github.com/SahashRaee/A-300-Day-of-Machine-Deep-Learning/blob/main/Assets/image/Machine_Deep_Learning.png)
