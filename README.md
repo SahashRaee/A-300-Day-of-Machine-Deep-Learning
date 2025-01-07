@@ -32,9 +32,9 @@
 | 7. [**Sentiment Analysis Dataset Notebook**](https://github.com/SahashRaee/Neural_Networks_Sentiment_Analysis/blob/main/PyTorch/Sentiment%20Analysis%20Dataset.ipynb) |
 | 8. [**Sentiment Analysis with RNN**](https://github.com/SahashRaee/Neural_Networks_Sentiment_Analysis/blob/main/PyTorch/Sentiment%20Analysis%20RNN.ipynb) |
 | 9. [**Sentiment Analysis with CNN**](https://github.com/SahashRaee/Neural_Networks_Sentiment_Analysis/blob/main/PyTorch/Sentiment%20Analysis%20CNN.ipynb) |
-| 10. [**Natural Language Inference Dataset**](https://github.com/ThinamXx/Natural_Language__Inference/blob/main/NaturalLanguage%20Inference%20Data.ipynb) |
-| 11. [**Natural Language Inference: Attention**](https://github.com/ThinamXx/Natural_Language__Inference/blob/main/NL%20Inference%20Attention.ipynb) |
-| 12. [**Natural Language Inference: BERT**](https://github.com/ThinamXx/Natural_Language__Inference/blob/main/NL%20Inference%20BERT.ipynb) |
+| 10. [**Natural Language Inference Dataset**](https://github.com/SahashRaee/Natural_Language_Inference/blob/main/NaturalLanguage%20Inference%20Data.ipynb) |
+| 11. [**Natural Language Inference: Attention**](https://github.com/SahashRaee/Natural_Language_Inference/blob/main/NL%20Inference%20Attention.ipynb) |
+| 12. [**Natural Language Inference: BERT**](https://github.com/SahashRaee/Natural_Language_Inference/blob/main/NL%20Inference%20BERT.ipynb) |
 | 13. [**Deep Convolutional GAN**](https://github.com/ThinamXx/GAN/blob/main/Deep%20GAN.ipynb) |
 | 14. [**Fastai: Introduction Notebook**](https://github.com/ThinamXx/Fastai/blob/main/1.%20Introduction.ipynb) |
 | 15. [**Fastai: Image Detection**](https://github.com/ThinamXx/Fastai/blob/main/2.%20Model%20Production/BearDetector.ipynb) |
