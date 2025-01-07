@@ -35,7 +35,7 @@
 | 10. [**Natural Language Inference Dataset**](https://github.com/SahashRaee/Natural_Language_Inference/blob/main/NaturalLanguage%20Inference%20Data.ipynb) |
 | 11. [**Natural Language Inference: Attention**](https://github.com/SahashRaee/Natural_Language_Inference/blob/main/NL%20Inference%20Attention.ipynb) |
 | 12. [**Natural Language Inference: BERT**](https://github.com/SahashRaee/Natural_Language_Inference/blob/main/NL%20Inference%20BERT.ipynb) |
-| 13. [**Deep Convolutional GAN**](https://github.com/ThinamXx/GAN/blob/main/Deep%20GAN.ipynb) |
+| 13. [**Deep Convolutional GAN**](https://github.com/SahashRaee/Generative_Adverserial_Networks/blob/main/Deep%20GAN.ipynb) |
 | 14. [**Fastai: Introduction Notebook**](https://github.com/ThinamXx/Fastai/blob/main/1.%20Introduction.ipynb) |
 | 15. [**Fastai: Image Detection**](https://github.com/ThinamXx/Fastai/blob/main/2.%20Model%20Production/BearDetector.ipynb) |
 | 16. [**Fastai: Training Classifier**](https://github.com/ThinamXx/Fastai/blob/main/3.%20Training%20a%20Classifier/DigitClassifier.ipynb) |
