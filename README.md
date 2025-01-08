@@ -43,7 +43,7 @@
 | 18. [**Fastai: Multilabel Classification & Regression**](https://github.com/SahashRaee/fast.ai/blob/main/05.%20MultilabelClassification%20Regression/MultilabelClassification.ipynb) |
 | 19. [**Fastai: Image Regression**](https://github.com/SahashRaee/fast.ai/blob/main/05.%20MultilabelClassification%20Regression/Regression.ipynb) |
 | 20. [**Fastai: Advanced Classification**](https://github.com/SahashRaee/fast.ai/blob/main/06.%20Advanced%20Classification/ImagenetteClassification.ipynb) |
-| 21. [**Fastai: Collaborative Filtering**](https://github.com/ThinamXx/Fastai/blob/main/7.%20Collaborative%20Filtering/CollaborativeFiltering.ipynb) |
+| 21. [**Fastai: Collaborative Filtering**](https://github.com/SahashRaee/fast.ai/blob/main/07.%20Collaborative%20Filtering/CollaborativeFiltering.ipynb) |
 | 22. [**Fastai: Tabular Modeling**](https://github.com/ThinamXx/Fastai/blob/main/8.%20Tabular%20Modeling/TabularModel.ipynb) |
 | 23. [**Fastai: Natural Language Processing**](https://github.com/ThinamXx/Fastai/blob/main/9.%20Natural%20Language%20Processing/NLP.ipynb) |
 | 24. [**Fastai: Data Munging**](https://github.com/ThinamXx/Fastai/blob/main/10.%20Data%20Munging/DataMunging.ipynb) |
