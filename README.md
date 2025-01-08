@@ -56,8 +56,8 @@
 | 31. [**Fastai: CNN Interpretation with CAM**](https://github.com/ThinamXx/Fastai/blob/main/17.%20CNN%20Interpretation/CNN%20Interpretation.ipynb) |
 | 32. [**Fastai: Fastai Learner from Scratch**](https://github.com/ThinamXx/Fastai/blob/main/18.%20Fastai%20Learner/Fastai%20Learner.ipynb) |
 | 33. [**Fastai: Chest X-Rays Classification**](https://github.com/SahashRaee/fast.ai/blob/main/19.%20Chest%20XRays%20Classification/XRays%20Classification.ipynb) |
-| 34. [**Supervised and Unsupervised Learning**](https://github.com/ThinamXx/ApproachingAnyMachineLearning/blob/main/01.%20Supervised%20Unsupervised%20Learning/Supervised%20Unsupervised.ipynb) |
-| 35. [**Evaluation Metrics**](https://github.com/ThinamXx/ApproachingAnyMachineLearning/blob/main/02.%20Evaluation%20Metrics/Evaluation%20Metrics.ipynb) |
+| 34. [**Supervised and Unsupervised Learning**](https://github.com/SahashRaee/Machine_Learning_Problem/blob/main/01.%20Supervised%20Unsupervised%20Learning/Supervised%20Unsupervised.ipynb) |
+| 35. [**Evaluation Metrics**](https://github.com/SahashRaee/Machine_Learning_Problem/blob/main/02.%20Evaluation%20Metrics/Evaluation%20Metrics.ipynb) |
 | 36. [**OpenCV Notebook**](https://github.com/SahashRaee/Deep_Learning_Computer_Vision/blob/main/01.%20OpenCV/OpenCV.ipynb) |
 | 37. [**OpenCV Project I**](https://github.com/SahashRaee/Deep_Learning_Computer_Vision/blob/main/01.%20OpenCV/OCV%20Project%20I.ipynb) | 
 | 38. [**OpenCV Project II**](https://github.com/SahashRaee/Deep_Learning_Computer_Vision/blob/main/01.%20OpenCV/OCV%20Project%20II.ipynb) |
