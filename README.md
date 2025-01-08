@@ -36,13 +36,13 @@
 | 11. [**Natural Language Inference: Attention**](https://github.com/SahashRaee/Natural_Language_Inference/blob/main/NL%20Inference%20Attention.ipynb) |
 | 12. [**Natural Language Inference: BERT**](https://github.com/SahashRaee/Natural_Language_Inference/blob/main/NL%20Inference%20BERT.ipynb) |
 | 13. [**Deep Convolutional GAN**](https://github.com/SahashRaee/Generative_Adverserial_Networks/blob/main/Deep%20GAN.ipynb) |
-| 14. [**Fastai: Introduction Notebook**](https://github.com/ThinamXx/Fastai/blob/main/1.%20Introduction.ipynb) |
-| 15. [**Fastai: Image Detection**](https://github.com/ThinamXx/Fastai/blob/main/2.%20Model%20Production/BearDetector.ipynb) |
-| 16. [**Fastai: Training Classifier**](https://github.com/ThinamXx/Fastai/blob/main/3.%20Training%20a%20Classifier/DigitClassifier.ipynb) |
-| 17. [**Fastai: Image Classification**](https://github.com/ThinamXx/Fastai/blob/main/4.%20Image%20Classification/ImageClassification.ipynb) |
-| 18. [**Fastai: Multilabel Classification & Regression**](https://github.com/ThinamXx/Fastai/blob/main/5.%20MultilabelClassification%20Regression/MultilabelClassification.ipynb) |
-| 19. [**Fastai: Image Regression**](https://github.com/ThinamXx/Fastai/blob/main/5.%20MultilabelClassification%20Regression/Regression.ipynb) |
-| 20. [**Fastai: Advanced Classification**](https://github.com/ThinamXx/Fastai/blob/main/6.%20Advanced%20Classification/ImagenetteClassification.ipynb) |
+| 14. [**Fastai: Introduction Notebook**](https://github.com/SahashRaee/fast.ai/blob/main/01.%20Introduction/Introduction.ipynb) |
+| 15. [**Fastai: Image Detection**]() |
+| 16. [**Fastai: Training Classifier**](https://github.com/SahashRaee/fast.ai/blob/main/03.%20Training%20a%20Classifier/DigitClassifier.ipynb) |
+| 17. [**Fastai: Image Classification**](https://github.com/SahashRaee/fast.ai/blob/main/04.%20Image%20Classification/ImageClassification.ipynb) |
+| 18. [**Fastai: Multilabel Classification & Regression**](https://github.com/SahashRaee/fast.ai/blob/main/05.%20MultilabelClassification%20Regression/MultilabelClassification.ipynb) |
+| 19. [**Fastai: Image Regression**](https://github.com/SahashRaee/fast.ai/blob/main/05.%20MultilabelClassification%20Regression/Regression.ipynb) |
+| 20. [**Fastai: Advanced Classification**](https://github.com/SahashRaee/fast.ai/blob/main/06.%20Advanced%20Classification/ImagenetteClassification.ipynb) |
 | 21. [**Fastai: Collaborative Filtering**](https://github.com/ThinamXx/Fastai/blob/main/7.%20Collaborative%20Filtering/CollaborativeFiltering.ipynb) |
 | 22. [**Fastai: Tabular Modeling**](https://github.com/ThinamXx/Fastai/blob/main/8.%20Tabular%20Modeling/TabularModel.ipynb) |
 | 23. [**Fastai: Natural Language Processing**](https://github.com/ThinamXx/Fastai/blob/main/9.%20Natural%20Language%20Processing/NLP.ipynb) |
