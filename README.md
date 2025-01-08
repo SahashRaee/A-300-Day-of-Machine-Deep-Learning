@@ -44,15 +44,15 @@
 | 19. [**Fastai: Image Regression**](https://github.com/SahashRaee/fast.ai/blob/main/05.%20MultilabelClassification%20Regression/Regression.ipynb) |
 | 20. [**Fastai: Advanced Classification**](https://github.com/SahashRaee/fast.ai/blob/main/06.%20Advanced%20Classification/ImagenetteClassification.ipynb) |
 | 21. [**Fastai: Collaborative Filtering**](https://github.com/SahashRaee/fast.ai/blob/main/07.%20Collaborative%20Filtering/CollaborativeFiltering.ipynb) |
-| 22. [**Fastai: Tabular Modeling**](https://github.com/ThinamXx/Fastai/blob/main/8.%20Tabular%20Modeling/TabularModel.ipynb) |
-| 23. [**Fastai: Natural Language Processing**](https://github.com/ThinamXx/Fastai/blob/main/9.%20Natural%20Language%20Processing/NLP.ipynb) |
-| 24. [**Fastai: Data Munging**](https://github.com/ThinamXx/Fastai/blob/main/10.%20Data%20Munging/DataMunging.ipynb) |
-| 25. [**Fastai: Language Model from Scratch**](https://github.com/ThinamXx/Fastai/blob/main/11.%20Language%20Model/LanguageModel.ipynb) |
-| 26. [**Fastai: Convolutional Neural Networks**](https://github.com/ThinamXx/Fastai/blob/main/12.%20Convolutional%20Neural%20Networks/CNN.ipynb) |
-| 27. [**Fastai: Residual Networks**](https://github.com/ThinamXx/Fastai/blob/main/13.%20ResNets/ResNets.ipynb) |
-| 28. [**Fastai: Architecture Details**](https://github.com/ThinamXx/Fastai/blob/main/14.%20Architecture%20Details/Architectures.ipynb) |
-| 29. [**Fastai: Training Process**](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%20259.PNG) |
-| 30. [**Fastai: Neural Network Foundations**](https://github.com/ThinamXx/Fastai/blob/main/16.%20Neural%20Network%20Foundations/NeuralFoundations.ipynb) |
+| 22. [**Fastai: Tabular Modeling**](https://github.com/SahashRaee/fast.ai/blob/main/08.%20Tabular%20Modeling/TabularModel.ipynb) |
+| 23. [**Fastai: Natural Language Processing**](https://github.com/SahashRaee/fast.ai/blob/main/09.%20Natural%20Language%20Processing/NLP.ipynb) |
+| 24. [**Fastai: Data Munging**](https://github.com/SahashRaee/fast.ai/blob/main/10.%20Data%20Munging/DataMunging.ipynb) |
+| 25. [**Fastai: Language Model from Scratch**](https://github.com/SahashRaee/fast.ai/blob/main/11.%20Language%20Model/LanguageModel.ipynb) |
+| 26. [**Fastai: Convolutional Neural Networks**](https://github.com/SahashRaee/fast.ai/blob/main/12.%20Convolutional%20Neural%20Networks/CNN.ipynb) |
+| 27. [**Fastai: Residual Networks**](https://github.com/SahashRaee/fast.ai/blob/main/13.%20ResNets/ResNets.ipynb) |
+| 28. [**Fastai: Architecture Details**](https://github.com/SahashRaee/fast.ai/blob/main/14.%20Architecture%20Details/Architectures.ipynb) |
+| 29. [**Fastai: Training Process**](https://github.com/SahashRaee/fast.ai/blob/main/15.%20Training%20Process/Training.ipynb) |
+| 30. [**Fastai: Neural Network Foundations**](https://github.com/SahashRaee/fast.ai/blob/main/16.%20Neural%20Network%20Foundations/NeuralFoundations.ipynb) |
 | 31. [**Fastai: CNN Interpretation with CAM**](https://github.com/ThinamXx/Fastai/blob/main/17.%20CNN%20Interpretation/CNN%20Interpretation.ipynb) |
 | 32. [**Fastai: Fastai Learner from Scratch**](https://github.com/ThinamXx/Fastai/blob/main/18.%20Fastai%20Learner/Fastai%20Learner.ipynb) |
 | 33. [**Fastai: Chest X-Rays Classification**](https://github.com/ThinamXx/Fastai/blob/main/19.%20Chest%20XRays%20Classification/XRays%20Classification.ipynb) |
