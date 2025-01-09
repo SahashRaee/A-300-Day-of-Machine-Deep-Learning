@@ -141,7 +141,7 @@
 - Book:
   - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
 - [**Chanin Nantasenamat Video on Sweetviz**](https://www.youtube.com/watch?v=UR_OK8vBpeY&lc=z22itptbrzv0vfky504t1aokgq4l23pa5kermfzdyrfkbk0h00410.1605764911555430)
-- [**California Housing Prices**](https://github.com/ThinamXx/CaliforniaHousing__Prices.git)
+- [**California Housing Prices**](https://github.com/SahashRaee/California_Housing_Prices/tree/main)
 
 ![Image](https://github.com/SahashRaee/A-300-Day-of-Machine-Deep-Learning/blob/main/Assets/Day%2010.PNG)
 ![Image](https://github.com/SahashRaee/A-300-Day-of-Machine-Deep-Learning/blob/main/Assets/Day%2010a.PNG)
@@ -151,7 +151,7 @@
 - On my Journey of Machine Learning and Deep Learning, Today I have learned and Implemented about Creating categories from attributes, Stratified Sampling, Visualizing Data to gain insights, Scatter Plots, Correlations, Scatter Matrix and Attribute Combinations from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have continued working with **California Housing Prices** Dataset which is included in this Book. This Dataset was based on Data from the 1990 California Census. I will build a Model of Housing Prices in California in this Project. I am still working on the same. I have presented the Implementation of Stratified Sampling, Correlations using Scatter Matrix and Attribute combinations using Python here in the Snapshots. I have also presented the Snapshots of Correlations using Scatter plots here. I hope you will spend some time working on the same and reading the Topics and Book mentioned above. Excited about the days ahead !! 
 - Book:
   - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
-- [**California Housing Prices**](https://github.com/ThinamXx/CaliforniaHousing__Prices.git)
+- [**California Housing Prices**](https://github.com/SahashRaee/California_Housing_Prices/tree/main)
 
 ![Image](https://github.com/SahashRaee/A-300-Day-of-Machine-Deep-Learning/blob/main/Assets/Day%2011a.PNG)
 ![Image](https://github.com/SahashRaee/A-300-Day-of-Machine-Deep-Learning/blob/main/Assets/Day%2011b.PNG)
@@ -170,7 +170,7 @@
 - On my Journey of Machine Learning and Deep Learning, Today I have learned and Implemented about Random Forest Regressor, Ensemble Learning, Tuning the Model, Grid Search, Randomized Search, Analyzing the Best Models and Errors, Model Evaluation, Cross Validation and few more Topics related to the same from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have completed working with **California Housing Prices** Dataset which is included in this Book. This Dataset was based on Data from the 1990 California Census. I have built a Model using Random Forest Regressor of California Housing Prices Dataset to predict the price of the Houses in California. I have presented the Implementation of Random Forest Regressor and Tuning the Model with Grid Search and Randomized Search along with Cross Validation using Python here in the Snapshot. I hope you will spend some time working on the same and reading the Topics and Book mentioned above. Excited about the days ahead!! 
 - Book:
   - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
-- [**California Housing Prices**](https://github.com/ThinamXx/CaliforniaHousing__Prices.git)
+- [**California Housing Prices**](https://github.com/SahashRaee/California_Housing_Prices/tree/main)
 
 ![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2013.PNG)
 
