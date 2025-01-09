@@ -153,9 +153,9 @@
   - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
 - [**California Housing Prices**](https://github.com/ThinamXx/CaliforniaHousing__Prices.git)
 
-![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2011a.PNG)
-![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2011b.PNG)
-![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2011c.PNG)
+![Image](https://github.com/SahashRaee/A-300-Day-of-Machine-Deep-Learning/blob/main/Assets/Day%2011a.PNG)
+![Image](https://github.com/SahashRaee/A-300-Day-of-Machine-Deep-Learning/blob/main/Assets/Day%2011b.PNG)
+![Image](https://github.com/SahashRaee/A-300-Day-of-Machine-Deep-Learning/blob/main/Assets/Day%2011c.PNG)
 
 **Day12 of 300DaysOfData!**
 - On my Journey of Machine Learning and Deep Learning, Today I have learned and Implemented about Preparing the Data for Machine Learning Algorithms, Data Cleaning, Simple Imputer, Ordinal Encoder, OneHot Encoder, Feature Scaling, Transformation Pipeline, Standard Scaler, Column Transformer, Linear Regression, Decision Tree Regressor and Cross Validation from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have continued working with **California Housing Prices** Dataset which is included in this Book. This Dataset was based on Data from the 1990 California Census. I will build a Model of Housing Prices in California in this Project. The Notebook contains almost every Topics mentioned above. I have presented the Implementation of Data Preparation, Handling missing values, OneHot Encoder, Column Transformer, Linear Regression, Decision Tree Regressor along with Cross Validation using Python here in the Snapshots. I hope you will spend some time working on the same and reading the Topics and Book mentioned above. Excited about the days ahead !!
@@ -163,8 +163,8 @@
   - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
 - [**California Housing Prices**](https://github.com/ThinamXx/CaliforniaHousing__Prices.git)
 
-![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2012a.PNG)
-![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2012b.PNG)
+![Image](https://github.com/SahashRaee/A-300-Day-of-Machine-Deep-Learning/blob/main/Assets/Day%2012a.PNG)
+![Image](https://github.com/SahashRaee/A-300-Day-of-Machine-Deep-Learning/blob/main/Assets/Day%2012b.PNG)
 
 **Day13 of 300DaysOfData!**
 - On my Journey of Machine Learning and Deep Learning, Today I have learned and Implemented about Random Forest Regressor, Ensemble Learning, Tuning the Model, Grid Search, Randomized Search, Analyzing the Best Models and Errors, Model Evaluation, Cross Validation and few more Topics related to the same from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have completed working with **California Housing Prices** Dataset which is included in this Book. This Dataset was based on Data from the 1990 California Census. I have built a Model using Random Forest Regressor of California Housing Prices Dataset to predict the price of the Houses in California. I have presented the Implementation of Random Forest Regressor and Tuning the Model with Grid Search and Randomized Search along with Cross Validation using Python here in the Snapshot. I hope you will spend some time working on the same and reading the Topics and Book mentioned above. Excited about the days ahead!! 
