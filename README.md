@@ -196,17 +196,17 @@
 - Book:
   - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
 
-![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2016.PNG)
-![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2016b.PNG)
-![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2016a.PNG)
+![Image](https://github.com/SahashRaee/A-300-Day-of-Machine-Deep-Learning/blob/main/Assets/Day%2016.PNG)
+![Image](https://github.com/SahashRaee/A-300-Day-of-Machine-Deep-Learning/blob/main/Assets/Day%2016a.PNG)
+![Image](https://github.com/SahashRaee/A-300-Day-of-Machine-Deep-Learning/blob/main/Assets/Day%2016b.PNG)
 
 **Day17 of 300DaysOfData!**
 - **Elastic Net**: Elastic Net is a middle grouped between Ridge Regression and Lasso Regression. The regularization term **r** is a simple mix of both Ridge and Lasso's regularization terms. When **r** equals 0, it is equivalent to Ridge and when **r** equals 1, it is equivalent to Lasso Regression. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about Lasso Regression, Elastic Net, Early Stopping, SGD Regressor, Logistic Regression, Estimating Probabilities, Training and Cost Function, Sigmoid Function, Decision Boundaries, Softmax Regression or Multinomial Logistic Regression, Cross Entropy and few more Topics related to the same from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have just started reading the Topic Support Vector Machines. I have presented the simple Implementation of Lasso Regression, Elastic Net, Early Stopping, Logistic Regression and Softmax Regression using Scikit Learn here in the Snapshots. I hope you will spend some time working on the same and reading the Topics and Book mentioned above. Excited about the days ahead!!
 - Book:
   - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
 
-![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2017a.PNG)
-![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2017.PNG)
+![Image](https://github.com/SahashRaee/A-300-Day-of-Machine-Deep-Learning/blob/main/Assets/Day%2017.PNG)
+![Image](https://github.com/SahashRaee/A-300-Day-of-Machine-Deep-Learning/blob/main/Assets/Day%2017a.PNG)
 
 **Day18 of 300DaysOfData!**
 - **Support Vector Machines**: A Support Vector Machines or SVM is a very powerful and versatile Machine Learning model which is capable of performing Linear and Nonlinear Classification, Regression and even outlier detection. SVMs are particularly well suited for classification of complex but medium sized datasets. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about Support Vector Machines, Linear SVM Classification, Soft Margin Classification, Nonlinear SVM Classification, Polynomial Regression, Polynomial Kernel, Adding Similarity Features, Gaussian RBF Kernel, Computational Complexity, SVM Regression which is Linear as well Nonlinear and few more Topics related to the same from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have presented the Implementation of Nonlinear SVM Classification using SVC and Linear SVC along with Visualization using Python here in the Snapshots. I hope you will spend some time working on the same and reading the Topics and Book mentioned above. Excited about the days ahead!!
