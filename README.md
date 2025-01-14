@@ -222,7 +222,7 @@
 - Book:
   - **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**
 
-![Image](https://github.com/ThinamXx/300Days__MachineLearningDeepLearning/blob/main/Images/Day%2019a.PNG)
+![Image](https://github.com/SahashRaee/A-300-Day-of-Machine-Deep-Learning/blob/main/Assets/Day%2019a.PNG)
 
 **Day20 of 300DaysOfData!**
 - **The CART Training Algorithm**: The Algorithm which represents Scikit Learn's Implementation of the Classification and Regression Tree or CART Training algorithm to train Decision Trees also called Growing Trees. It's working principle is splitting the Training set into two subsets using a feature and a threshold. On my Journey of Machine Learning and Deep Learning, Today I have read and Implemented about Decision Functions and Predictions, Decision Trees, Decision Tree Classifier, Making Predictions, Gini Impurity, White Box Models and Black Box Models, Estimating Class Probabilities, The CART Training Algorithm, Computational Complexities, Entropy, Regularization Hyperparameters, Decision Tree Regressor, Cost Function and Instability from the Book **Hands On Machine Learning with Scikit Learn, Keras and TensorFlow**. I have presented the simple Implementation of Decision Tree Classifier and Decision Tree Regressor along with Visualization of the same using Python here in the Snapshots. I hope you will spend some time working on the same and reading the Topics and Book mentioned above. Excited about the days ahead!!
